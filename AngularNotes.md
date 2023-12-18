@@ -1,4 +1,4 @@
-# AngularJS Topics
+# Angular Topics
 
 - **Angular Concepts**
   - Components
