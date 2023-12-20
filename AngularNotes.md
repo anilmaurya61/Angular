@@ -1,16 +1,27 @@
 # Angular Topics
 
-- **Angular Concepts**
-  - Components
-  - Templates
-  - Directives
-  - Services
-
-- Routing in Angular
-- Forms in Angular
-- Dependency Injection
-- HTTP Client
-- State Management
+1. **Component**
+2. **Module**
+3. **Data Binding with Multiple Components**
+4. **Parent-Child Communication**
+5. **String Interpolation {{}}**
+6. **One Way Binding**
+   - Custom Binding
+   - Property Binding
+7. **Two Way Binding**
+   - [(ngModel)]
+8. **Directives and Life Cycle**
+9. **Host Binding and Attribute Directives**
+10. **View Children and Content Children**
+11. **Services & Dependency Injection**
+12. **Changing Pages with Routing**
+    - Router Guard
+13. **Understanding Observable**
+    - Observable with Reactive Programming
+14. **Handling Forms in Angular Apps**
+15. **Using Pipes to Transform Output**
+16. **Making HTTP Requests**
+17. **Authentication & Route Protection in Angular Apps**
 
 ------
 
